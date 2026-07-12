@@ -1,7 +1,7 @@
 👋 Hi, I'm Aji
 
  Beginner Developer
- Interested in Web Development,Mobile Apps and Game Development
+ Interested in Web Development,Mobile Apps Game Development
  Currently learning and building small projects
 
 🛠️ Tech Stack
