@@ -1,7 +1,7 @@
 👋 Hi, I'm Aji
 
  Beginner Developer
- Interested in Web Development & Mobile Apps
+ Interested in Web Development,Mobile Apps and Game Development
  Currently learning and building small projects
 
 🛠️ Tech Stack
@@ -11,6 +11,8 @@
 -PHP
 
 -Android Studio (Basic)
+
+-Godot (GDScript)
 
 📌 Goals
 
